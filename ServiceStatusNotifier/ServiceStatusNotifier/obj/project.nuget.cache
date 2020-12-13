@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lvu0OBSTRsJbe9dVaQx1fILeX8FMiV/mEM6T/Sx/iQHqZgqac94w4dSsvxTU4ZJ1q1drXytsR+5uAFr8YcmFow==",
+  "success": true,
+  "projectFilePath": "C:\\github\\service_status_notifier\\ServiceStatusNotifier\\ServiceStatusNotifier\\ServiceStatusNotifier.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ijas\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ijas\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ijas\\.nuget\\packages\\system.codedom\\5.0.0\\system.codedom.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ijas\\.nuget\\packages\\system.management\\5.0.0\\system.management.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ijas\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ijas\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
