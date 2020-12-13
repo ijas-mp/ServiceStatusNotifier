@@ -1,2 +1,2 @@
 # service_status_notifier
-getting notified if a windows service status is changed
+Application will notify user if any windows service status is changed
